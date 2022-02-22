@@ -1,4 +1,4 @@
-# R_N_D_News
+# FREE NEWS API
 
 URL: https://free-docs.newscatcherapi.com/?python
 
